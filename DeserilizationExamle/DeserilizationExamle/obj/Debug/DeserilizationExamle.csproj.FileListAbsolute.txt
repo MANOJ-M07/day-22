@@ -1,0 +1,11 @@
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\bin\Debug\DeserilizationExamle.exe.config
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\bin\Debug\DeserilizationExamle.exe
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\bin\Debug\DeserilizationExamle.pdb
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\bin\Debug\PersonLib.dll
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\bin\Debug\PersonLib.pdb
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\obj\Debug\DeserilizationExamle.csproj.AssemblyReference.cache
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\obj\Debug\DeserilizationExamle.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\obj\Debug\DeserilizationExamle.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\obj\Debug\DeserilizationExamle.csproj.CopyComplete
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\obj\Debug\DeserilizationExamle.exe
+D:\simplilearn\day-22\DeserilizationExamle\DeserilizationExamle\obj\Debug\DeserilizationExamle.pdb

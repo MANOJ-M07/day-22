@@ -1,0 +1,8 @@
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\obj\Debug\SerializationExamle.csproj.AssemblyReference.cache
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\obj\Debug\SerializationExamle.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\obj\Debug\SerializationExamle.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\bin\Debug\SerializationExamle.exe.config
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\bin\Debug\SerializationExamle.exe
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\bin\Debug\SerializationExamle.pdb
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\obj\Debug\SerializationExamle.exe
+D:\simplilearn\day-22\SerializationExamle\SerializationExamle\obj\Debug\SerializationExamle.pdb

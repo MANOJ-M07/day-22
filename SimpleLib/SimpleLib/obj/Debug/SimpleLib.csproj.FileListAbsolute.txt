@@ -1,0 +1,6 @@
+D:\simplilearn\day-22\SimpleLib\SimpleLib\bin\Debug\SimpleLib.dll
+D:\simplilearn\day-22\SimpleLib\SimpleLib\bin\Debug\SimpleLib.pdb
+D:\simplilearn\day-22\SimpleLib\SimpleLib\obj\Debug\SimpleLib.csproj.AssemblyReference.cache
+D:\simplilearn\day-22\SimpleLib\SimpleLib\obj\Debug\SimpleLib.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-22\SimpleLib\SimpleLib\obj\Debug\SimpleLib.dll
+D:\simplilearn\day-22\SimpleLib\SimpleLib\obj\Debug\SimpleLib.pdb

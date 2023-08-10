@@ -1,0 +1,11 @@
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\bin\Debug\XMLDeSerilization.exe.config
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\bin\Debug\XMLDeSerilization.exe
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\bin\Debug\XMLDeSerilization.pdb
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\bin\Debug\SimpleLib.dll
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\bin\Debug\SimpleLib.pdb
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\obj\Debug\XMLDeSerilization.csproj.AssemblyReference.cache
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\obj\Debug\XMLDeSerilization.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\obj\Debug\XMLDeSerilization.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\obj\Debug\XMLDeSerilization.csproj.CopyComplete
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\obj\Debug\XMLDeSerilization.exe
+D:\simplilearn\day-22\XMLDeSerilization\XMLDeSerilization\obj\Debug\XMLDeSerilization.pdb

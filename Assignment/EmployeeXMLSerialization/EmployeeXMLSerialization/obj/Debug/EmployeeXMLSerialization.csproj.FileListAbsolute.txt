@@ -1,0 +1,11 @@
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\bin\Debug\EmployeeXMLSerialization.exe.config
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\bin\Debug\EmployeeXMLSerialization.exe
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\bin\Debug\EmployeeXMLSerialization.pdb
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\bin\Debug\Employee.dll
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\bin\Debug\Employee.pdb
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\obj\Debug\EmployeeXMLSerialization.csproj.AssemblyReference.cache
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\obj\Debug\EmployeeXMLSerialization.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\obj\Debug\EmployeeXMLSerialization.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\obj\Debug\EmployeeXMLSerialization.csproj.CopyComplete
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\obj\Debug\EmployeeXMLSerialization.exe
+D:\simplilearn\day-22\Assignment\EmployeeXMLSerialization\EmployeeXMLSerialization\obj\Debug\EmployeeXMLSerialization.pdb

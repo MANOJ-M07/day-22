@@ -1,0 +1,11 @@
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\bin\Debug\EmployeeBinarySerialization.exe.config
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\bin\Debug\EmployeeBinarySerialization.exe
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\bin\Debug\EmployeeBinarySerialization.pdb
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\bin\Debug\Employee.dll
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\bin\Debug\Employee.pdb
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\obj\Debug\EmployeeBinarySerialization.csproj.AssemblyReference.cache
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\obj\Debug\EmployeeBinarySerialization.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\obj\Debug\EmployeeBinarySerialization.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\obj\Debug\EmployeeBinarySerialization.csproj.CopyComplete
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\obj\Debug\EmployeeBinarySerialization.exe
+D:\simplilearn\day-22\Assignment\EmployeeBinarySerialization\EmployeeBinarySerialization\obj\Debug\EmployeeBinarySerialization.pdb
